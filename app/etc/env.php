@@ -11,7 +11,7 @@ return [
         'connection' => [
             'default' => [
                 'host' => 'localhost',
-                'dbname' => 'medsmein',
+                'dbname' => 'medsmein1',
                 'username' => 'root',
                 'password' => 'root',
                 'model' => 'mysql4',
